@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ##  My Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true)
 
+##  Languages that I've used
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)
