@@ -8,7 +8,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on **Personal Website** if I had time
-- 🌱 I’m currently learning **HTML**, & **CSS**
+- 🌱 I’m currently learning **HTML**, **CSS** , **JS** & **BootStrap**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about something besides code cause im still an amateur haha.
