@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about something else besides code cause im still an amateur haha.
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart(my parents give me that name). Idk if I should believe it or not..aa whatever :)) 
+- ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart, and humble(my parents give me that name).:)) 
 
 ##  My Overall Stats
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&)
