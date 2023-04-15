@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart(my parents give me that name). Idk if I should believe it or not..aa whatever :)) 
 
-##  My Stats
+##  My Overall Stats
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&)
 
 ##  Languages that I've used
