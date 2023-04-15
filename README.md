@@ -1,3 +1,4 @@
+[![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=orange)](https://github.com/darrenxx3)
 # Hi there 👋, I'm Christopher Darren
 
 <p align="center">Hello there, I'm Darren.</p>
