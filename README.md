@@ -1,4 +1,4 @@
-[![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=orange)](https://github.com/darrenxx3)
+[![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=yellow)](https://github.com/darrenxx3)
 # Hi there 👋, I'm Christopher Darren
 
 <p align="center">Hello there, I'm Darren. A tech lover and of course want to learn something new.</p>
@@ -27,4 +27,4 @@ Here are some ideas to get you started:-->
 
 
 ## Github awards👑
-[![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/darrenxx3/github-profile-trophy)
+[![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)](https://github.com/darrenxx3/github-profile-trophy)
