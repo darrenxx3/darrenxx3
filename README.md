@@ -18,11 +18,11 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart, and humble(my parents give me that name).:)) 
 
 ##  My Overall Stats
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true"/></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenxx3&theme=tokyonight" alt="darrenxx3" /></p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"/></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenxx3&theme=tokyonight&hide_border=true" alt="darrenxx3" /></p>
 
 ##  Languages that I've used 💻
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight"/></p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight&hide_border=true"/></p>
 <!--![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)-->
 
 
