@@ -22,7 +22,9 @@ Here are some ideas to get you started:-->
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenxx3&theme=tokyonight" alt="darrenxx3" /></p>
 
 ##  Languages that I've used 💻
-![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)
+<p align="center" <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight"/></p>
+<!--![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)-->
+
 
 ## Github awards👑
 [![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/darrenxx3/github-profile-trophy)
