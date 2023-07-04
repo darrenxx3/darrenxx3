@@ -25,4 +25,4 @@ Here are some ideas to get you started:-->
 ![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)
 
 ## Github awards👑
-[![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight)](https://github.com/darrenxx3/github-profile-trophy)
+[![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15)](https://github.com/darrenxx3/github-profile-trophy)
