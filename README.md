@@ -1,7 +1,7 @@
 [![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=orange)](https://github.com/darrenxx3)
 # Hi there 👋, I'm Christopher Darren
 
-<p align="center">Hello there, I'm Darren.</p>
+<p align="center">Hello there, I'm Darren. A tech lover and of course want to learn something new.</p>
   
 <!--
 **darrenxx3/darrenxx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenxx3&theme=tokyonight" alt="darrenxx3" /></p>
 
-##  Languages that I've used
+##  Languages that I've used 💻
 ![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)
 
 ## Github awards👑
