@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on **Personal Website** if I had time
+- 🔭 I’m currently working on my **Personal Website**.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** & **BootStrap**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
@@ -24,7 +24,6 @@ Here are some ideas to get you started:-->
 ##  Languages that I've used 💻
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight&hide_border=true"/></p>
 <!--![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)-->
-
 
 ## Github awards👑
 [![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)](https://github.com/darrenxx3/github-profile-trophy)
