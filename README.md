@@ -4,7 +4,8 @@
 <p align="center">Hello there, I'm Darren. A tech lover and of course want to learn something new.</p>
 
 ### Spotify Playing 🎧
-<img src = "https://spotify-by-novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>[https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29]
+
+[![Spotify](https://novatorem-darrenxx3.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 <!--
 **darrenxx3/darrenxx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
