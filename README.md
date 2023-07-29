@@ -5,7 +5,10 @@
 
 ### Spotify Playing 🎧
 
-[<img src="[http://spotify-by-novatorem-darrenxx3.vercel.app/spotify]" alt="darrenxx3 playing" width="350" />](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)
+<a href="https://github.com/darrenxx3/spotify-by-novatorem)">
+  <img src="http://spotify-by-novatorem-darrenxx3.vercel.app/api" alt="Current Spotify Song">
+</a>
+
 <!--
 **darrenxx3/darrenxx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
