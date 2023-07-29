@@ -6,7 +6,7 @@
 ### Spotify Playing 🎧
 
 <a href="https://open.spotify.com/playlist/77dZtkH5UsAxWBjosaBSzC">
-  <img src="https://spotify-readme.vercel.app/api" alt="Current Spotify Song"> 
+  <img src="https://spotify-readme.vercel.app/api/spotify" alt="Current Spotify Song"> 
 </a>
 
 <!--
