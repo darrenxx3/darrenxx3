@@ -15,7 +15,6 @@ Here are some ideas to get you started:-->
 [![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/77dZtkH5UsAxWBjosaBSzC)
 
 
-
 - 🔭 I’m currently working on my **Personal Website**.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** & **BootStrap**
 <!-- - 👯 I’m looking to collaborate on ...
