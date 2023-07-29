@@ -5,10 +5,6 @@
 
 ### Spotify Playing 🎧
 
-<a href="https://vercel.com/darrenxx3/spotify-by-novatorem">
-  <img src="https://spotify-by-novatorem.vercel.app/api/spotify" alt="Current Spotify Song">
-</a>
-
 
 <img src= "https://spotify-by-novatorem.vercel.app/api/spotify?background_color=0d1117" [https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29]
 />
