@@ -6,9 +6,7 @@
 ### Spotify Playing 🎧
 
 &nbsp;
-<p align="center">
-  <img src= "https://spotify-by-novatorem.vercel.app/api/spotify?background_color=0d1117"/> [https://open.spotify.com/user/omnitenebris]
-</p>
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 <!--
