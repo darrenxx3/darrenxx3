@@ -12,8 +12,9 @@ Here are some ideas to get you started:-->
 ## Spotify Playing 🎧
 <!--[![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)-->
 
+&nbsp; <div align="center">
 [![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/77dZtkH5UsAxWBjosaBSzC)
-
+</div>
 
 - 🔭 I’m currently working on my **Personal Website**.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** & **BootStrap**
