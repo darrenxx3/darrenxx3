@@ -6,7 +6,7 @@
 ### Spotify Playing 🎧
 
 <a href="https://github.com/darrenxx3/spotify-by-novatorem">
-  <img src="http://spotify-by-novatorem-darrenxx3.vercel.app/spotify" alt="Current Spotify Song">
+  <img src="https://spotify-by-novatorem.vercel.app/spotify" alt="Current Spotify Song">
 </a>
 
 <!--
