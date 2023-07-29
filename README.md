@@ -5,7 +5,7 @@
 
 ### Spotify Playing 🎧
 
-<a href="https://github.com/darrenxx3/Spotify-Readme](https://open.spotify.com/playlist/77dZtkH5UsAxWBjosaBSzC">
+<a href="https://open.spotify.com/playlist/77dZtkH5UsAxWBjosaBSzC">
   <img src="https://spotify-readme.vercel.app/api" alt="Current Spotify Song"> 
 </a>
 
