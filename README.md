@@ -6,7 +6,7 @@
 ### Spotify Playing 🎧
 
 &nbsp;
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/Christopher%Darren)
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/Christopher_Darren)
 
 
 <!--
