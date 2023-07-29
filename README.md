@@ -6,7 +6,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)
-
 <!--
 **darrenxx3/darrenxx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
