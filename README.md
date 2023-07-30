@@ -1,15 +1,16 @@
 [![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=yellow)](https://github.com/darrenxx3)
-<div align="left">
-  <h1>Hi there 👋, I'm Christopher Darren</h1>
-</div>
+
+# Hi there 👋, I'm Christopher Darren
+
 
 <div align="center">
   <img src= ""/>
-</div>
-
-<p align="center">
+  <p align="center">
   A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University.
 </p>
+</div>
+
+
 
 
 <!--
