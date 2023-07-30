@@ -16,7 +16,7 @@
 
 Here are some ideas to get you started:-->
 
-<h2>Spotify Playing 🎧</h2>
+## Spotify Playing 🎧##
 <!--[![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)-->
 
 &nbsp; <div align="center">
