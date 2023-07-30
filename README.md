@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src= "WaifunyaDarren.gif" style="border-radius=50%"/>
+  <img src= "WaifunyaDarren.gif" alt="iniwaifuku"/>
 </div>
 <br></br>
 <p align="center">
