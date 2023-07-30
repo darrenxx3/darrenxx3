@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src= ""/>
+  <img src= "WaifunyaDarren.gif"/>
 </div>
 
 <p align="center">
