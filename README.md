@@ -5,13 +5,11 @@
 
 <div align="center">
   <img src= ""/>
-  <p align="center">
-  A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University.
-</p>
 </div>
 
-
-
+<p align="center">
+  A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University.
+</p>
 
 <!--
 **darrenxx3/darrenxx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
