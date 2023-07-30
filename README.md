@@ -1,5 +1,5 @@
 [![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=yellow)](https://github.com/darrenxx3)
-# Hi there 👋, I'm Christopher Darren
+<h1>Hi there 👋, I'm Christopher Darren</h1>
 
 <div align="center">
   <img src= ""/>
@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:-->
 
- Spotify Playing 🎧
+## Spotify Playing 🎧
 <!--[![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)-->
 
 &nbsp; <div align="center">
