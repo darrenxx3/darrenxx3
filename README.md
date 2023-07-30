@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Christopher Darren
 
 <p align="center">
-  A tech lover and of course want to learn something new. I'm a Information System Major sstudent studying at Multimedia Nusantara University.
+  A tech lover and of course want to learn something new. I'm an **Information System** Major student studying at Multimedia Nusantara University.
 </p>
 
 
