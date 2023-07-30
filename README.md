@@ -6,7 +6,7 @@
 <div align="center">
   <img src= "WaifunyaDarren.gif"/>
 </div>
-
+<br></br>
 <p align="center">
   A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University.
 </p>
