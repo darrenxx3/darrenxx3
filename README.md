@@ -2,7 +2,6 @@
 
 # Hi there 👋, I'm Christopher Darren
 
-
 <div align="center">
   <img src= "WaifunyaDarrenedited.gif" alt="iniwaifuku"/>
 </div>
