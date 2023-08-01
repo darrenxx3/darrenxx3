@@ -35,6 +35,13 @@ Here are some ideas to get you started:-->
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"/></p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenxx3&theme=tokyonight&hide_border=true" alt="darrenxx3" /></p>
 
+<details>
+<summary><b>Wakatime status :alarm_clock:</b></summary>
+  
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darrenxx3)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 ##  Languages that I've used 💻
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight&hide_border=true"/></p>
 <!--![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)-->
