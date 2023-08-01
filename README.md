@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
 <details>
 <summary><b>Wakatime status :alarm_clock:</b></summary>
   
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darren)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darren&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
