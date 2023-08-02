@@ -1,6 +1,6 @@
 [![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=yellow)](https://github.com/darrenxx3)
 
-# Hi there 👋, I'm Christopher Darren
+# Hi there 👋, I'm ```Christopher Darren```
 
 <div align="center">
   <img src= "WaifunyaDarrenedited.gif" alt="iniwaifuku"/>
@@ -48,3 +48,9 @@ Here are some ideas to get you started:-->
 
 ## Github awards👑
 [![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)](https://github.com/darrenxx3/github-profile-trophy)
+
+## Support and reach me :heart:
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCyZf7qgG1ikTpp-od-oQZNA" alt="youtube"><img src="https://icon-library.com/images/youtube-round-icon-png/youtube-round-icon-png-16.jpg" style="width:100px"></a>
+  <a href="https://steamcommunity.com/profiles/76561198837185839/" alt="steam"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" style="width:100px"></a>
+</div>
