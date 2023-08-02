@@ -51,6 +51,6 @@ Here are some ideas to get you started:-->
 
 ## Support and reach me :heart:
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCyZf7qgG1ikTpp-od-oQZNA" alt="youtube"><img src="https://icon-library.com/images/youtube-round-icon-png/youtube-round-icon-png-16.jpg" style="width:100px"></a>
-  <a href="https://steamcommunity.com/profiles/76561198837185839/" alt="steam"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" style="width:100px"></a>
+  <a href="https://www.youtube.com/channel/UCyZf7qgG1ikTpp-od-oQZNA" alt="youtube"><img src="https://icon-library.com/images/youtube-round-icon-png/youtube-round-icon-png-16.jpg" style="width:80px"></a>
+  <a href="https://steamcommunity.com/profiles/76561198837185839/" alt="steam"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" style="width:80px"></a>
 </div>
