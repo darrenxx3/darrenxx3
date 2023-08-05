@@ -30,7 +30,7 @@ Here are some ideas to get you started:-->
 [![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/77dZtkH5UsAxWBjosaBSzC)
 </div>
 
-
+Want to know my favorite playlist? [Click here to see my spotify stats!](https://volt.fm/user/6cmde29n1eqlh1c2")
 
 ##  My Overall Stats 🏁
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"/></p>
