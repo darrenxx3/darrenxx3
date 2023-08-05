@@ -5,7 +5,7 @@
   A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University.
 </p>
 
-<img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=495/>
+<img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
 - 🔭 I’m currently working on my **Personal Portfolio Website**
