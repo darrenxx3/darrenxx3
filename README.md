@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** & ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with **creating a good responsive website** any help from you guys are really mean alot to me 
-- 💬 Ask me about something else besides code cause im still an amateur haha
-<!-- - 📫 How to reach me: ... -->
+- 💬 Ask me about something else besides code because i'm still an amateur haha
+- 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
 
@@ -58,3 +58,6 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
   <a href="https://rogcommunity.id/members/christopher03/" alt="rogcommunity"><img src="https://seeklogo.com/images/R/republic-of-gamers-new-logo-C7B28EBFFE-seeklogo.com.png" style="width:80px"></a>
 
 </div>
+
+<!-- Links -->
+[Click here]: https://github.com/darrenxx3/darrenxx3/blob/main/README.md#support-and-reach-me-heart
