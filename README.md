@@ -60,4 +60,4 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 </div>
 
 <!-- Links -->
-[Click here]: https://github.com/darrenxx3/darrenxx3/blob/main/README.md#support-and-reach-me-heart
+[Click here]: https://github.com/darrenxx3#support-and-reach-me-heart
