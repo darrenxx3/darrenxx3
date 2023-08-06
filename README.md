@@ -18,10 +18,6 @@
 - ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
 
 <br></br>
-<!--
-**darrenxx3/darrenxx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 ## Spotify Playing 🎧
 <!--[![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)-->
