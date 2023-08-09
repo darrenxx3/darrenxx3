@@ -46,7 +46,7 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 <!--![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)-->
 
 ## Github awards👑
-[![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)](https://github.com/darrenxx3/github-profile-trophy)
+[![Github trophy](https://github-profile-trophy.vercel.app/?username=darrenxx3&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)](https://github.com/darrenxx3/)
 
 ## Support and reach me :heart:
 <div align="left">
