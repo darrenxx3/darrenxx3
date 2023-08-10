@@ -2,7 +2,8 @@
 
 # Hi there 👋, I'm ```Christopher Darren```
 <p align="center">
-  A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University.
+  A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University. I'm currently
+  enjoying my time at semester's holiday.
 </p>
 
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
