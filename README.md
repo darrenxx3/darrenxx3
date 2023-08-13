@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
-  A tech lover and of course want to learn something new. I'm an <b>Information System</b> Major student studying at Multimedia Nusantara University. I'm currently
+  A tech lover and of course want to learn something new. I'm an Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University. I'm currently
   enjoying my time at semester's holiday.
 </p>
 
