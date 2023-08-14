@@ -21,6 +21,11 @@
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
 <br></br>
 
+## Skills and Tools
+<div align="left">
+  <a href="" alt="nothin"><img src="" style="width:80px"></a>
+</div>
+
 ## Spotify Playing 🎧
 <!--[![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)-->
 
