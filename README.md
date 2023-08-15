@@ -60,6 +60,7 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
   <a href="https://rogcommunity.id/members/christopher03/" alt="rogcommunity"><img src="https://seeklogo.com/images/R/republic-of-gamers-new-logo-C7B28EBFFE-seeklogo.com.png" style="width:80px"></a>
   <a href="https://www.hoyolab.com/accountCenter/postList?id=108359880" alt="hoyo"><img src="https://cdn-www.bluestacks.com/bs-images/38ea0bfad29830f9e91c414bf729317c.png" style="width:80px"></a>
   <a href="mailto:cdarren2003@gmail.com" alt="email"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" style="width:100px"></a>
+  <a href="https://www.facebook.com/christopher.darren.33/" alt="fb"><img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" style="width:80px"></a>
 
 </div>
 
