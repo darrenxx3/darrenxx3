@@ -19,7 +19,6 @@
 - ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
 
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
-<br></br>
 
 ## Skills and Tools
 <div align="left">
