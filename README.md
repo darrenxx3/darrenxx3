@@ -16,7 +16,8 @@
 - 💬 Ask me about something else besides code because i'm still an amateur haha
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: the name called "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
+- ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
+- 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], and [Imprezza WRX STI] 
 
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
 
@@ -66,3 +67,6 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 
 <!-- Links -->
 [Click here]: https://github.com/darrenxx3#support-and-reach-me-heart
+[LancerEVO]: https://images4.alphacoders.com/822/822019.jpg
+[GTR]: https://images.alphacoders.com/749/749420.jpg
+[Imprezza WRX STI]: https://images5.alphacoders.com/463/463325.jpg 
