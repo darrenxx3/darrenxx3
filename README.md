@@ -48,7 +48,7 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 </details>
 
 ##  Languages that I've used 💻
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight&hide_border=true"/></p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight&hide_border=true" style="width:42%"/></p>
 <!--![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)-->
 
 ## Github awards👑
