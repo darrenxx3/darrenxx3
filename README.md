@@ -25,7 +25,8 @@
 <div align="left">
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"></a>
-  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-3c009d.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="windows"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=gold" alt="github"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-3c009d.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="premiere"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" 
 alt="figma"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white" alt ="windows"></a>
