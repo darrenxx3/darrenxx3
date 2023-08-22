@@ -22,7 +22,6 @@
 
 <details>
   <summary><b>🥰 My top 5 favorite Waifu:</b></summary>
-  <br></br>
   1. Chizuru Ichinose<br>
   2. Lena Milize<br>
   3. Yukinoshita Yukino<br>
