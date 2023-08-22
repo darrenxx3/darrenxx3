@@ -20,6 +20,15 @@
 - 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], and [Imprezza WRX STI]
 - 🚙 Dream car: [Subaru WRX] 
 
+<details>
+  <summary><b>🥰 My top 5 favorite Waifu:</b></summary>
+  1. Chizuru Ichinose<br>
+  2. Lena Milize<br>
+  3. Yukinoshita Yukino<br>
+  4. Ayaka Kamisato<br>
+  5. Power<br>
+</details>
+
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
 
 ## Skills and Tools
