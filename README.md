@@ -23,7 +23,7 @@
 <details>
   <summary><b>🥰 My top 5 favorite Waifu:</b></summary><br>
   
-  1. [Chizuru Ichinose](https://images4.alphacoders.com/129/1297868.png) from *Kanojo Okarishimasu*
+  1. [Chizuru Ichinose](https://images4.alphacoders.com/129/1297868.png) from *Kanojo Okarishimasu* (since 2020)
   2. [Lena Milize](https://images3.alphacoders.com/128/1289650.png) from *EIGHTY SIX-86*
   3. [Yukinoshita Yukino](https://images.alphacoders.com/710/710655.jpg) from *Oregairu*
   4. [Ayaka Kamisato](https://images6.alphacoders.com/132/1322778.png) from *Genshin Impact*
