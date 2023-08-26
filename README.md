@@ -32,6 +32,11 @@
 
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
 
+<p align="center">
+  <i>"If you like to do something that you like, <b>just do it</b> because life is more fun that way."</i><br>
+  - Chizuru Ichinose
+</p>
+
 ## Skills and Tools
 <div align="left">
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
