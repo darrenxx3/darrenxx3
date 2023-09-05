@@ -9,7 +9,7 @@
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m currently working on my **Personal Portfolio Website**
+- 🔭 I’m currently working on my **Personal Portfolio Website** and **Bachelor Thesis 😭**
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** & ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with **creating a good responsive website** any help from you guys are really mean alot to me 
