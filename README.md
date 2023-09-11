@@ -19,7 +19,7 @@
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
 - 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], and [Imprezza WRX STI]
 - 🚙 Dream car: [Subaru WRX]
-- 🏍️ Drean bike: [Honda CBR600RR] 
+- 🏍️ Dream bike: [Honda CBR600RR] 
 
 <details>
   <summary><b>🥰 My top 5 favorite Waifu:</b></summary><br>
