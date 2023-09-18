@@ -43,9 +43,13 @@
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=gold" alt="github"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=black" alt="tableau"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="powerbi"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=black" alt="anaconda"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=black" alt="android studio"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="photoshop"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-3c009d.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="premiere"></a>
-  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Figma-920000.svg?style=for-the-badge&logo=Figma&logoColor=white" 
-alt="figma"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Figma-920000.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white" alt ="windows"></a>
   
 </div>
