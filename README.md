@@ -1,3 +1,9 @@
+<!--NOTES
+To all people who wants to make a beautiful README, you guys can see my readme to have an inspirations but please
+don't copy paste all the same. If you guys is interested in using my README reference,  kindly please by tweaking the code or altering the layout.
+This approach promotes a culture of innovation and respect, ensuring my README remains protected while still allowing others to benefit from it in a collaborative and transformative manner. In essence, it's about fostering a community where creativity thrives within the bounds of respect for intellectual property, making GitHub a place where everyone's contributions are valued and honored. Thankyou ❤
+-->
+
 [![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=yellow)](https://github.com/darrenxx3)
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
