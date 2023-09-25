@@ -56,6 +56,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="powerbi"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=black" alt="anaconda"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=black" alt="android studio"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=black" alt="illustrator"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="photoshop"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-3c009d.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="premiere"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Figma-920000.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"></a>
