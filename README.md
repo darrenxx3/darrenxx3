@@ -29,13 +29,18 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🏍️ Dream bike: [Honda CBR600RR] 
 
 <details>
-  <summary><b>🥰 My top 5 favorite Waifu:</b></summary><br>
+  <summary><b>🥰 My top 10 favorite Waifu:</b></summary><br>
   
   1. [Chizuru Ichinose](https://images4.alphacoders.com/129/1297868.png) from *Kanojo Okarishimasu* (since 2020)
   2. [Lena Milize](https://images3.alphacoders.com/128/1289650.png) from *EIGHTY SIX-86*
   3. [Yukinoshita Yukino](https://images.alphacoders.com/710/710655.jpg) from *Oregairu*
   4. [Ayaka Kamisato](https://images6.alphacoders.com/132/1322778.png) from *Genshin Impact*
   5. [Power](https://images5.alphacoders.com/132/1325249.jpeg) from *Chainsawman*
+  6. [Sakayanagi Arisu](https://images.alphacoders.com/.jpeg) from *Classroom of the Elite*
+  7. []
+  8. []
+  9. []
+  10. []
 </details>
 
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
