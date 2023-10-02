@@ -37,8 +37,8 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   4. [Ayaka Kamisato](https://images6.alphacoders.com/132/1322778.png) from *Genshin Impact*
   5. [Power](https://images5.alphacoders.com/132/1325249.jpeg) from *Chainsawman*
   6. [Sakayanagi Arisu](https://images.alphacoders.com/.jpeg) from *Classroom of the Elite*
-  7. []
-  8. []
+  7. [Chisato Nishikigi]() from *Lycoris Recoil*
+  8. [Alisa Mikhailovna Kujou]() from *Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san*
   9. []
   10. []
 </details>
