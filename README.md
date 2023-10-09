@@ -35,12 +35,12 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   2. [Lena Milize](https://images3.alphacoders.com/128/1289650.png) from *EIGHTY SIX-86*
   3. [Yukinoshita Yukino](https://images.alphacoders.com/710/710655.jpg) from *Oregairu*
   4. [Ayaka Kamisato](https://images6.alphacoders.com/132/1322778.png) from *Genshin Impact*
-  5. [Power](https://images5.alphacoders.com/132/1325249.jpeg) from *Chainsawman*
+  5. [Alisa Mikhailovna Kujou](https://i.redd.it/wmnjzw0hklt71.jpg) from *Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san*
   6. [Sakayanagi Arisu](https://images.alphacoders.com/.jpeg) from *Classroom of the Elite*
   7. [Chisato Nishikigi](https://images5.alphacoders.com/131/1312175.jpg) from *Lycoris Recoil*
-  8. [Alisa Mikhailovna Kujou](https://i.redd.it/wmnjzw0hklt71.jpg) from *Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san*
-  9. [Kurumi Tokisaki](https://images2.alphacoders.com/688/688004.jpg) from *Date a Live*
-  10. []
+  8. [Kurumi Tokisaki](https://images2.alphacoders.com/688/688004.jpg) from *Date a Live*
+  9. [Power](https://images5.alphacoders.com/132/1325249.jpeg) from *Chainsawman*
+  10. [Yor Briar](https://images.alphacoders.com/129/1291933.png) from *Spy x Family*
 </details>
 
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
