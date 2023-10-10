@@ -50,7 +50,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   - Chizuru Ichinose
 </p>
 
-## Skills and Tools
+## Skills and Tools 🧰
 <div align="left">
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"></a>
