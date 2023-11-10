@@ -26,7 +26,8 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
 - 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], and [Imprezza WRX STI]
 - 🚙 Dream car: [Subaru WRX]
-- 🏍️ Dream bike: [Honda CBR600RR] 
+- 🏍️ Dream bike: [Honda CBR600RR]
+- 🎴 Favorite Cosplayer: [punipun7]
 
 <details>
   <summary><b>🥰 My top 10 favorite Waifu:</b></summary><br>
@@ -117,3 +118,4 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 [Imprezza WRX STI]: https://images5.alphacoders.com/463/463325.jpg
 [Subaru WRX]: https://inging.s3-ap-southeast-1.amazonaws.com/website/pages/subaru_overview_8_mobile.jpg
 [Honda CBR600RR]: https://wall.alphacoders.com/big.php?i=684369
+[punipun7]: https://www.instagram.com/punipun7/
