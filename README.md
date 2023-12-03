@@ -9,13 +9,13 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
   A tech lover and of course want to learn something new. I'm an 20 years old Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University.
-  I'm currently at my 5th semester this year.
+  I'm currently at my 5th semester and soon gonna finish it.
 </p>
 
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m currently working on my **Personal Portfolio Website** and **Bachelor Thesis 😭**
+- 🔭 I’m currently working on my **Personal Portfolio Website** and **Portfolio PPT**😭
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** & ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with **creating a good responsive website** any help from you guys are really mean alot to me
