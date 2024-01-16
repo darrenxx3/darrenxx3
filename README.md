@@ -15,11 +15,11 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m currently working on my **Personal Portfolio Website** and **Portfolio PPT**😭
+- 🔭 I’m currently working on my **Personal Portfolio Website**😭
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** & ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with **creating a good responsive website** any help from you guys are really mean alot to me
-- ❓ I'm looking for a internship opportunity especially Data analyst and Data scientist 
+- ❓ I'm looking for an internship opportunity especially Data analyst and Data scientist 
 - 💬 Ask me about something else besides code because i'm still an amateur haha
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him
