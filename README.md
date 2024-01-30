@@ -15,7 +15,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m currently working on my **Personal Portfolio Website**😭
+- 🔭 I’m currently working to become a **better person day by day slowly but surely**
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** & ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with **creating a good responsive website** any help from you guys are really mean alot to me
@@ -23,7 +23,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 💬 Ask me about something else besides code because i'm still an amateur haha
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents give me that name):))
+- ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
 - 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], and [Imprezza WRX STI]
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
@@ -47,7 +47,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
 
 <p align="center">
-  <i>"If you like to do something that you like, <b>just do it</b> because life is more fun that way."</i><br>
+  <i>"If you like to do something that you like, <b>just do it...</b> because life is more fun that way."</i><br>
   - Chizuru Ichinose
 </p>
 
