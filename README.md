@@ -15,8 +15,8 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m currently working to become a **better person day by day slowly but surely**
-- 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** & ~~**BootStrap**~~
+- 🔭 I’m currently working as a **System Analyst** from KOMINFO and now doing a MBKM humanity project at village.
+- 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development**& ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - ❓ I'm looking for an internship opportunity especially Data analyst and Data scientist 
 - 💬 Ask me about something else besides code because i'm still an amateur haha
