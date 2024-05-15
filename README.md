@@ -1,4 +1,4 @@
-<!--NOTES
+![image](https://github.com/darrenxx3/darrenxx3/assets/102723615/1e3ce97d-3623-44ab-a75a-0f95eb258cda)<!--NOTES
 To all people who wants to make a beautiful README, you guys can see my readme to have an inspirations but please
 don't copy paste all the same. If you guys is interested in using my README reference,  kindly please by tweaking the code or altering the layout.
 This approach promotes a culture of innovation and respect, ensuring my README remains protected while still allowing others to benefit from it in a collaborative and transformative manner. In essence, it's about fostering a community where creativity thrives within the bounds of respect for intellectual property, making GitHub a place where everyone's contributions are valued and honored. Thankyou ❤
@@ -8,7 +8,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
-  A tech lover and of course want to learn something new. I'm an 20 years old Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University.
+  A tech lover and like to learn something new. I'm an 20 years old Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University.
   Jush finished 5th semester :).
 </p>
 
@@ -23,7 +23,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
-- 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], and [Imprezza WRX STI]
+- 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], , [Civic Type-R] and [Imprezza WRX STI]
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
 - 🎴 Favorite Cosplayer: [punipun7]
@@ -118,5 +118,6 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 [GTR]: https://images.alphacoders.com/749/749420.jpg
 [Imprezza WRX STI]: https://images5.alphacoders.com/463/463325.jpg
 [Subaru WRX]: https://inging.s3-ap-southeast-1.amazonaws.com/website/pages/subaru_overview_8_mobile.jpg
+[Civic Type-R]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCivic_Type_R%2Fcomments%2Fyern4q%2Fofficial_2023_civic_type_r_fl5_us_pricing_42895%2F&psig=AOvVaw0fqqLZyQFIO_cXxb1Cyf5t&ust=1715859707897000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDgi9bJj4YDFQAAAAAdAAAAABAQ
 [Honda CBR600RR]: https://wall.alphacoders.com/big.php?i=684369
 [punipun7]: https://www.instagram.com/punipun7/
