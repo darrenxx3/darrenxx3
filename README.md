@@ -1,4 +1,4 @@
-![image](https://github.com/darrenxx3/darrenxx3/assets/102723615/1e3ce97d-3623-44ab-a75a-0f95eb258cda)<!--NOTES
+<!--NOTES
 To all people who wants to make a beautiful README, you guys can see my readme to have an inspirations but please
 don't copy paste all the same. If you guys is interested in using my README reference,  kindly please by tweaking the code or altering the layout.
 This approach promotes a culture of innovation and respect, ensuring my README remains protected while still allowing others to benefit from it in a collaborative and transformative manner. In essence, it's about fostering a community where creativity thrives within the bounds of respect for intellectual property, making GitHub a place where everyone's contributions are valued and honored. Thankyou ❤
