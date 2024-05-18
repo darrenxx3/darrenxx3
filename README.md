@@ -15,7 +15,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m currently working as a **System Analyst** from KOMINFO and now doing a MBKM humanity project at village.
+- 🔭 I’m currently working as a **System Analyst** from KOMINFO DTS-TSA Program and now doing a MBKM humanity project at village.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development**& ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - ❓ I'm looking for an internship opportunity especially Data analyst and Data scientist 
@@ -27,6 +27,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
 - 🎴 Favorite Cosplayer: [punipun7]
+- 😂 Waifu of all time: [Chizuru Ichinose]
 
 <details>
   <summary><b>🥰 My top 10 favorite Waifu:</b></summary><br>
@@ -121,3 +122,5 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 [Civic Type-R]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCivic_Type_R%2Fcomments%2Fyern4q%2Fofficial_2023_civic_type_r_fl5_us_pricing_42895%2F&psig=AOvVaw0fqqLZyQFIO_cXxb1Cyf5t&ust=1715859707897000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDgi9bJj4YDFQAAAAAdAAAAABAQ
 [Honda CBR600RR]: https://wall.alphacoders.com/big.php?i=684369
 [punipun7]: https://www.instagram.com/punipun7/
+
+[Chizuru Ichinose]: https://images4.alphacoders.com/129/1297868.png
