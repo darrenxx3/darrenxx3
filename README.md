@@ -9,7 +9,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
   A tech lover and like to learn something new. I'm an 20 years old Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University.
-  Jush finished 5th semester :).
+  Just finished 6th semester :).
 </p>
 
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
