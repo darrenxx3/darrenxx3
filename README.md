@@ -8,7 +8,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
-  A tech lover and like to learn something new. I'm an 20 years old Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University.
+  A tech lover and like to learn something new. I'm an 21 years old Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University.
   Just finished 6th semester :).
 </p>
 
@@ -59,6 +59,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=gold" alt="github"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="vstudio"></a>
+  <a href="https://github.com/darrenxx3" alt=""><img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" alt="nodejs"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=black" alt="tableau"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="powerbi"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=black" alt="anaconda"></a>
@@ -66,8 +67,10 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=black" alt="illustrator"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="photoshop"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" alt="indesign"></a>
+  <a href="https://github.com/darrenxx3" alt=""><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white" alt="xd"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-3c009d.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="premiere"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Figma-920000.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="framer"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white" alt ="windows"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Android-181717.svg?style=for-the-badge&logo=Android&logoColor=yellow" alt="android"></a>
   
