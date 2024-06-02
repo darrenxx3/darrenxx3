@@ -23,7 +23,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
-- 🚗 Really loves about JDM cars -> especially [LancerEVO] , [GTR], , [Civic Type-R] and [Imprezza WRX STI]
+- 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], and [Imprezza WRX STI]
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
 - 🎴 Favorite Cosplayer: [punipun7]
