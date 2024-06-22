@@ -57,6 +57,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=gold" alt="github"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Vercel-FFFFFF.svg?style=for-the-badge&logo=Vercel&logoColor=black" alt="vercel"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="vstudio"></a>
   <a href="https://github.com/darrenxx3" alt=""><img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" alt="nodejs"></a>
@@ -67,14 +68,26 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=black" alt="illustrator"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="photoshop"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" alt="indesign"></a>
-  <a href="https://github.com/darrenxx3" alt=""><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white" alt="xd"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white" alt="xd"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-3c009d.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="premiere"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Figma-920000.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Framer-000000.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="framer"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Notion-silver.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="notion"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white" alt ="windows"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Android-181717.svg?style=for-the-badge&logo=Android&logoColor=yellow" alt="android"></a>
-  
+  <a href=""><img src="https://img.shields.io/badge/YouTube%20Studio-FF0000.svg?style=for-the-badge&logo=YouTube-Studio&logoColor=white" alt="ytstudio"></a>
 </div>
+  
+
+
+<div align="center">
+  <p><b>ML Tools</b></p>
+  <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"></a>
+  <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tf"></a>
+  <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"></a>
+</div>
+
 
 ## Spotify Playing 🎧
 <!--[![Spotify](https://spotify-by-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/8btvrf0k2kk4qszsfna7orb29)-->
