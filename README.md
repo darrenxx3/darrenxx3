@@ -60,9 +60,11 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Vercel-FFFFFF.svg?style=for-the-badge&logo=Vercel&logoColor=black" alt="vercel"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="vstudio"></a>
-  <a href="https://github.com/darrenxx3" alt=""><img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" alt="nodejs"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" alt="nodejs"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white" alt="tm"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=black" alt="tableau"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="powerbi"></a>
+  <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="cloud"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=black" alt="anaconda"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=black" alt="android studio"></a>
   <a href="https://github.com/darrenxx3" alt="nothing"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=black" alt="illustrator"></a>
