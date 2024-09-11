@@ -23,6 +23,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 😄 Pronouns: He/Him, Dar, ren, Darren, Chris
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
 - 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], and [Imprezza WRX STI]
+- 🏍 Love bikes? yes... MX-King 150, Raider 150, Winner 150, GSXR-150, CBR250RR, ZX25R, Er6n, CBR650R, CBR600RR, R6, H2/H2R, CBR1000RR-R, ZX10R, S1000RR, Turbo Hayabusa, Panigale V4, Superleggra, and so on   
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
 - 🎴 Favorite Cosplayer: [punipun7]
