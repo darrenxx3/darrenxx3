@@ -88,6 +88,8 @@ This approach promotes a culture of innovation and respect, ensuring my README r
   <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"></a>
   <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tf"></a>
   <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"></a>
+  <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="streamlit"></a>
+  <a href="https://github.com/darrenxx3"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"></a>
 </div>
 
 
