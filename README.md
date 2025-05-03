@@ -18,16 +18,17 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development** , **AI** & **SCRUM** ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - ~❓ I'm looking for an internship opportunity especially Data analyst and Data scientist~ 
-- 💬 Ask me about something else besides code because i'm still an amateur haha
+- 💬 Ask me about something else besides code because i'm still an amateur haha (I'm serious :v)
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him, Dar, ren, Darren, Chris
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
-- 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], and [Imprezza WRX STI]
+- 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], [RX7], [AE86 Trueno], and [Imprezza WRX STI]
 - 🏍 Love bikes? yes... MX-King 150, Raider 150, Winner 150, GSXR-150, CBR250RR, ZX25R, Er6n, CBR650R, CBR600RR, R6, H2/H2R, CBR1000RR-R, ZX10R, S1000RR, Turbo Hayabusa, Panigale V4, Superleggra, and so on   
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
 - 🎴 Favorite Cosplayer: [punipun7]
 - 😂 Waifu of all time: [Chizuru Ichinose]
+- 🎵 Favorite music genre: J-pop, and Mandapop
 
 <details>
   <summary><b>🥰 My top 10 favorite Waifu:</b></summary><br>
@@ -47,7 +48,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 <p>p.s -> that GIF is from https://tenor.com/view/chizuru-mizuhara-rent-a-girlfriend-anime-kanojo-okarishimasu-blush-gif-26104359</p>
 
 <p align="center">
-  <i>"If you like to do something that you like, <b>just do it...</b> because life is more fun that way."</i><br>
+  <i>"If you like to do something that you like, <b>just do it...</b> because life is more fun that way.✨"</i><br>
   - Chizuru Ichinose
 </p>
 
@@ -141,6 +142,8 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 [Subaru WRX]: https://inging.s3-ap-southeast-1.amazonaws.com/website/pages/subaru_overview_8_mobile.jpg
 [Civic Type-R]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCivic_Type_R%2Fcomments%2Fyern4q%2Fofficial_2023_civic_type_r_fl5_us_pricing_42895%2F&psig=AOvVaw0fqqLZyQFIO_cXxb1Cyf5t&ust=1715859707897000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDgi9bJj4YDFQAAAAAdAAAAABAQ
 [Honda CBR600RR]: https://wall.alphacoders.com/big.php?i=684369
+[RX7]: https://www.pexels.com/search/mazda%20rx7/
+[AE86 Trueno]: https://images.alphacoders.com/754/thumb-1920-754563.jpg
 [punipun7]: https://www.instagram.com/punipun7/
 
 [Chizuru Ichinose]: https://images4.alphacoders.com/129/1297868.png
