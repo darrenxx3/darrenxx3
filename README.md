@@ -1,7 +1,7 @@
 <!--NOTES
-To all people whether a developer or just casual who wants to make a beautiful README, you guys can see my readme to have an inspirations but please
-don't copy and paste all the same. If you guys is interested in using my README reference,  kindly please by tweaking the code or altering the layout.
-This approach promotes a culture of innovation and respect, ensuring my README remains protected while still allowing others to benefit from it in a collaborative and transformative manner. In essence, it's about fostering a community where creativity thrives within the bounds of respect for intellectual property, making GitHub a place where everyone's contributions are valued and honored. Thankyou ❤
+To all people whether a developer or just casual people who wants to make a beautiful README, you guys can see my readme to have an inspirations but please
+don't copy and paste with the same exact structures. If you guys is interested in using my README reference,  kindly please by tweaking the code or altering the layout.
+This approach promotes a culture of innovation and respect, ensuring my README remains protected while still allowing others to benefit from it in a collaborative and transformative manner. In essence, it's about fostering a community where creativity thrives within the bounds of respect for intellectual property, making GitHub a place where everyone's contributions are valued and honored. Thankyou and have a nice day ❤
 -->
 
 [![Count](https://komarev.com/ghpvc/?username=darrenxx3&style=flat-square&color=yellow)](https://github.com/darrenxx3)
@@ -17,7 +17,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🔭 I’m currently working as an **IT Intern** at PT BANK CENTRAL ASIA Tbk.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development** , **AI** & **SCRUM** ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
-- ~❓ I'm looking for an internship opportunity especially Data analyst and Data scientist~ 
+- ❓ In future, I'm looking for an internship or full-time opportunity especially Data analyst, ML/DL , and Data scientist related fields. 
 - 💬 Ask me about something else besides code because i'm still an amateur haha (I'm serious :v)
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him, Dar, ren, Darren, Chris
