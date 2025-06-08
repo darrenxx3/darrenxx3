@@ -8,7 +8,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
-  A tech lover and like to learn something new. I'm a 21 years old Undergraduate <b>Information System</b> Major student studying at Multimedia Nusantara University.
+  A tech lover and like to learn something new besides coding!. I'm a 22 years old Final-year <b>Information System</b> Major student studying at Multimedia Nusantara University.
 </p>
 
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
@@ -20,7 +20,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - ❓ In future, I'm looking for an internship or full-time opportunity especially Data analyst, ML/DL , and Data scientist related fields. 
 - 💬 Ask me about something else besides code because i'm still an amateur haha (I'm serious :v)
 - 📫 How to reach me: [Click here]
-- 😄 Pronouns: He/Him, Dar, ren, Darren, Chris
+- 😄 Pronouns: He/Him, Dar, ren, Darren, Chris, Koh, Ko, 桂淋
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
 - 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], [RX7], [AE86 Trueno], and [Imprezza WRX STI]
 - 🏍 Love bikes? yes... MX-King 150, Raider 150, Winner 150, GSXR-150, CBR250RR, ZX25R, Er6n, CBR650R, CBR600RR, R6, H2/H2R, CBR1000RR-R, ZX10R, S1000RR, Turbo Hayabusa, Panigale V4, Superleggra, and so on   
