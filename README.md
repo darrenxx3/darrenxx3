@@ -8,13 +8,13 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
-  A tech lover and like to learn something new besides coding!. I'm a 22 years old Final-year <b>Information System</b> Major student studying at Multimedia Nusantara University.
+  A tech lover and like to learn something new besides coding!. I'm a 22 years old Final-year <b>Information System</b> Major student studying at Multimedia Nusantara University waiting for Graduation.
 </p>
 
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m currently working as an **IT Intern** at PT BANK CENTRAL ASIA Tbk.
+- 🔭 I’m an ex**IT Intern** at PT BANK CENTRAL ASIA Tbk.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development** , **AI** & **SCRUM** ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - ❓ In future, I'm looking for an internship or full-time opportunity especially Data analyst, ML/DL , and Data scientist related fields. 
