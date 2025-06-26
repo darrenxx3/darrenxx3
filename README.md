@@ -8,7 +8,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
-  A tech lover and like to learn something new besides coding!. I'm a 22 years old Recently Finished Bachelor's Degree of <b>Information System</b> Major student studying at Multimedia Nusantara University waiting for Graduation.
+  A tech lover and like to learn something new besides coding!. I'm a 22 years old Recently Finished Bachelor's Degree of <b>Information System</b> Major student at Multimedia Nusantara University waiting for Graduation.
 </p>
 
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
@@ -49,7 +49,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 
 <p align="center">
   <i>"If you like to do something that you like, <b>just do it...</b> because life is more fun that way.✨"</i><br>
-  - Chizuru Ichinose
+  - Chizuru Ichinose from KanoKari
 </p>
 
 ## Skills and Tools 🧰
