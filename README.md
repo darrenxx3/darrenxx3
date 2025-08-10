@@ -14,13 +14,13 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
 
 ### About Me
-- 🔭 I’m an ex**IT Intern** at PT BANK CENTRAL ASIA Tbk.
+- 🔭 I’m an ex-**IT Data Automation and Visualization Intern** at PT BANK CENTRAL ASIA Tbk.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development** , **AI** & **SCRUM** ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
 - ❓ In future, I'm looking for an internship or full-time opportunity especially Data analyst, ML/DL , and Data scientist related fields. 
-- 💬 Ask me about something else besides code because i'm still an amateur haha (I'm serious :v)
+- 💬 Ask me about something else besides code because I'm still learning haha (I'm being serious :v)
 - 📫 How to reach me: [Click here]
-- 😄 Pronouns: He/Him, Dar, ren, Darren, Chris, Koh, Ko, 桂淋
+- 😄 Pronouns: He/Him, Dar, Der, ren, Darren, Chris, Koh, Ko, 桂淋, wibu
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
 - 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], [RX7], [AE86 Trueno], and [Imprezza WRX STI]
 - 🏍 Love bikes? yes... MX-King 150, Raider 150, Winner 150, GSXR-150, CBR250RR, ZX25R, Er6n, CBR650R, CBR600RR, R6, H2/H2R, CBR1000RR-R, ZX10R, S1000RR, Turbo Hayabusa, Panigale V4, Superleggra, and so on   
@@ -29,6 +29,8 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🎴 Favorite Cosplayer: [punipun7]
 - 😂 Waifu of all time: [Chizuru Ichinose]
 - 🎵 Favorite music genre: J-pop, and Mandapop
+- 🎮💚 Favorite game genre: Open-world, Story-driven, Third person shooter, Anime, Arcade Racing, Racing Sim, and ARPG
+- 🎮 Currently playing: Clash Royale, and Honkai: Star Rail
 
 <details>
   <summary><b>🥰 My top 10 favorite Waifu:</b></summary><br>
