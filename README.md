@@ -8,7 +8,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 
 # Hi there 👋, I'm ```Christopher Darren``` a.k.a 钟桂淋
 <p align="center">
-  A tech lover and like to learn something new besides coding!. I'm a 22 years old Recently Finished Bachelor's Degree of <b>Information System</b> Major student at Multimedia Nusantara University waiting for Graduation.
+  A tech lover and like to learn something new besides coding!. I'm a 22 years old Freshgraduate Bachelor's Degree of <b>Information System</b> Major student at Multimedia Nusantara University.
 </p>
 
 <img align="right" src= "WaifunyaDarrenedited.gif" alt="iniwaifuku" width=450/>
@@ -17,7 +17,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🔭 I’m an ex-**IT Data Automation and Visualization Intern** at PT BANK CENTRAL ASIA Tbk.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development** , **AI** & **SCRUM** ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
-- ❓ In future, I'm looking for an internship or full-time opportunity especially Data analyst, ML/DL , and Data scientist related fields. 
+- ❓ In future, I'm looking for an internship or full-time opportunity especially Data analyst, ML/DL , and Data scientist related data fields. 
 - 💬 Ask me about something else besides code because I'm still learning haha (I'm being serious :v)
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him, Dar, Der, ren, Darren, Chris, Koh, Ko, 桂淋, wibu
@@ -28,7 +28,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🏍️ Dream bike: [Honda CBR600RR]
 - 🎴 Favorite Cosplayer: [punipun7]
 - 😂 Waifu of all time: [Chizuru Ichinose]
-- 🎵 Favorite music genre: J-pop, and Mandapop
+- 🎵 Favorite music genre: J-pop, EDM, and Mandapop
 - 🎮💚 Favorite game genre: Open-world, Story-driven, Third person shooter, Anime, Arcade Racing, Racing Sim, and ARPG
 - 🎮 Currently playing: Clash Royale, and Honkai: Star Rail
 
