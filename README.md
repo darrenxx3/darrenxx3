@@ -26,7 +26,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🏍 Love bikes? yes... MX-King 150, Raider 150, Winner 150, GSXR-150, CBR250RR, ZX25R, Er6n, CBR650R, CBR600RR, R6, H2/H2R, CBR1000RR-R, ZX10R, S1000RR, Turbo Hayabusa, Panigale V4, Superleggra, and so on   
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
-- 🎴 Favorite Cosplayer: [punipun7]
+- 🎴 Favorite Cosplayer: [punipun7] & [xiaoyukiko]
 - 😂 Waifu of all time: [Chizuru Ichinose]
 - 🎵 Favorite music genre: J-pop, EDM, and Mandapop
 - 🎮💚 Favorite game genre: Open-world, Story-driven, Third person shooter, Anime, Arcade Racing, Racing Sim, RPG, and ARPG
@@ -147,5 +147,5 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 [RX7]: https://www.pexels.com/search/mazda%20rx7/
 [AE86 Trueno]: https://images.alphacoders.com/754/thumb-1920-754563.jpg
 [punipun7]: https://www.instagram.com/punipun7/
-
+[xiaoyukiko]: https://www.instagram.com/xiaoyukiko/
 [Chizuru Ichinose]: https://images4.alphacoders.com/129/1297868.png
