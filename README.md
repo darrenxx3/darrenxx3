@@ -22,7 +22,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 📫 How to reach me: [Click here]
 - 😄 Pronouns: He/Him, Dar, Der, ren, Darren, Chris, Koh, Ko, 桂淋, wibu
 - ⚡ Fun fact: My name "Darren" means a good guy with such a great heart, and humble(my parents gave me that name):))
-- 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], [RX7], [AE86 Trueno], and [Imprezza WRX STI]
+- 🚗 Really loves about JDM cars -> especially [LancerEVO], [GTR], [Civic Type-R], [RX7], [AE86 Trueno], Integra Type-R, NSX Type-R, Miata MX-5, Supra MK4,and [Imprezza WRX STI]
 - 🏍 Love bikes? yes... MX-King 150, Raider 150, Winner 150, GSXR-150, CBR250RR, ZX25R, Er6n, CBR650R, CBR600RR, R6, H2/H2R, CBR1000RR-R, ZX10R, S1000RR, Turbo Hayabusa, Panigale V4, Superleggra, and so on   
 - 🚙 Dream car: [Subaru WRX]
 - 🏍️ Dream bike: [Honda CBR600RR]
