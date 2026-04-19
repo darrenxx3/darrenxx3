@@ -17,6 +17,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 🔭 I’m an ex-**IT Data Automation and Visualization Intern** at PT BANK CENTRAL ASIA Tbk.
 - 🌱 I’m currently learning **HTML**, **CSS** , **JS** , **Python** , **Machine Learning**, **Data Analytics/Scientist** , **Web Development** , **AI** & **SCRUM** ~~**BootStrap**~~
 <!-- - 👯 I’m looking to collaborate on ...-->
+- 🕹 I'm currently work as a quality assurance - game tester at Agate International
 - ❓ In future, I'm looking for an internship or full-time opportunity especially Data analyst, ML/DL , Game Testing, and Data Scientist related data fields. 
 - 💬 Ask me about something else besides code because I'm still learning haha (I'm being serious :v)
 - 📫 How to reach me: [Click here]
