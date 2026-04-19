@@ -30,7 +30,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 - 😂 Waifu of all time: [Chizuru Ichinose]
 - 🎵 Favorite music genre: J-pop, EDM, and Mandapop
 - 🎮💚 Favorite game genre: Open-world, Story-driven, Third person shooter, Anime, Arcade Racing, Racing Sim, RPG, and ARPG
-- 🎮 Currently playing: The Witcher 3 Next-Gen, and Umamusume Pretty Derby 
+- 🎮 Currently playing: The Witcher 3 Next-Gen, Gran Turismo 4 EMULATOR, and Umamusume Pretty Derby 
 
 <details>
   <summary><b>🥰 My top 10 favorite Waifu:</b></summary><br>
