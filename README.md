@@ -107,7 +107,7 @@ This approach promotes a culture of innovation and respect, ensuring my README r
 Want to know my favorite playlist? [Click here to see my spotify stats!](https://volt.fm/user/6cmde29n1eqlh1c2)
 
 ##  My Overall Stats 🏁
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"/></p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=darrenxx3&theme=tokyonight&show_icons=true&count_private=true&hide_border=true"/></p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenxx3&theme=tokyonight&hide_border=true" alt="darrenxx3" /></p>
 
 <details>
@@ -120,6 +120,7 @@ Want to know my favorite playlist? [Click here to see my spotify stats!](https:/
 
 ##  Languages that I've used 💻
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight&hide_border=true" style="width:42%"/></p>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darrenxx3&layout=compact&theme=tokyonight)-->
 
 ## Github awards👑
